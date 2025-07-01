@@ -1,0 +1,97 @@
+{
+  "AppRedirect": {
+    "status"     : false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.spotify.music"
+  },
+  
+  
+  "AdController": {
+      
+      "README": [
+        "To run ads for each network, enter one of the following: 'admob' , 'facebook' ",
+        "⚠️Warning: Facebook does not support OpenAd."
+      ],
+      
+      "BannerNetwork"      : "admob",
+      "InterstitialNetwork": "admob",
+      "NativeNetwork"      : "admob",
+      
+      "OpenAdNetwork"      : "admob",
+      
+      "AdInterval"         : 1,
+      
+      "NativeAdRow"        : 5,
+
+      "AdPlacement": {
+        
+        "AdMobBanner"         : "ca-app-pub-3940256099942544/6300978111",
+        "AdMobInterstitial"   : "ca-app-pub-3940256099942544/1033173712",
+        "AdMobNative"         : "ca-app-pub-3940256099942544/2247696110",
+        "AdMobOpenAd"         : "ca-app-pub-3940256099942544/9257395921",
+        
+        "FacebookBanner"      : "IMG_16_9_APP_INSTALL#692961278482629_692963411815749",
+        "FacebookInterstitial": "IMG_16_9_APP_INSTALL#692961278482629_692963491815741",
+        "FacebookNative"      : "IMG_16_9_LINK#692961278482629_857100538735368"
+
+      }
+    },
+  
+  "PopAdSetting": {
+    "showPop"  : true,
+    "showClose": true,
+    "adList": [
+      {
+        "preview": "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
+        "title": "Good new ! we added new app check it !",
+        "button_title": "Install now",
+        "button_url": "https://github.com/saidmotya/"
+      }
+    ]
+  },
+  
+  "AppsPromote": [
+    {
+      "name": "Music Jul & Lyrics Offline",
+      "packageName": "com.Superstar.jul.gouss",
+      "icon": "https://play-lh.googleusercontent.com/oiQXFBgsnxgzi5qlMjH4FWkr9sAx75kss6mOlTs51Qrm3RByfOCyA02PibWogRY1_A",
+      "download": "+50K"
+    },
+    {
+      "name": "Chansons françaises Offline",
+      "packageName": "com.chansons.hitfrancaise.gouss",
+      "icon": "https://play-lh.googleusercontent.com/hCKHucE73QP5pa0xb3jRB2jr2ed3r207-LPRydLg8coSQsdvkJ8i612OppUWVnxFBA",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Maitre Gims & Lyrics Offline",
+      "packageName": "com.gimsmaitre.prendmamain.gouss",
+      "icon": "https://play-lh.googleusercontent.com/zLyoMHLZH_cGZ8NU54eqN_2RCSVL0M3r996LSDEMjrCPMbmKWFh1x6pR4vRmvqCoq-s",
+      "download": "+100K"
+    },
+    {
+      "name": "Eva Queen & Lyrics",
+      "packageName": "com.eva.oxegene.gouss",
+      "icon": "https://play-lh.googleusercontent.com/Yu7fErx5k448n3h3bstsQt93QPutUpiHDgwcAf4vit9exrM1zNV4t8IVcBvzbsuA2z0",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Leo Rojas & Lyrics",
+      "packageName": "com.leorojas.amigos.gouss",
+      "icon": "https://play-lh.googleusercontent.com/ztdQmM0vVJl8rj6EWtahcGWnNWFUupCUKXZh8DP3KAlmYS_cJ0X4YKlp6-l7KWf3ttw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Music Niska & Lyrics",
+      "packageName": "com.niska.bolivienne.gouss",
+      "icon": "https://play-lh.googleusercontent.com/AmwziaP0Xmqt2dTKYKzgkPbk3E0ifLjl2cmCLtHbn8TMwR19CgyCqMTVbB5Cm51uaw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Mark Forster & Lyrics",
+      "packageName": "com.markfos.terchone.gouss",
+      "icon": "https://play-lh.googleusercontent.com/rvf5kz5LHYr1xh3fucvrtP9qJYm-2ao7iLE7skuRW60T992XiVhvV3KjSOzlDlzlyA",
+      "download": "+100K Million"
+    }
+  ]
+  
+}
