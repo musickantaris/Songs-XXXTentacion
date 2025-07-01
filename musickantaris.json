@@ -37,8 +37,8 @@
     },
   
   "PopAdSetting": {
-    "showPop"  : true,
-    "showClose": true,
+    "showPop"  : false,
+    "showClose": false,
     "adList": [
       {
         "preview": "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
@@ -51,21 +51,21 @@
   
   "AppsPromote": [
     {
-      "name": "Music Jul & Lyrics Offline",
-      "packageName": "com.Superstar.jul.gouss",
-      "icon": "https://play-lh.googleusercontent.com/oiQXFBgsnxgzi5qlMjH4FWkr9sAx75kss6mOlTs51Qrm3RByfOCyA02PibWogRY1_A",
+      "name": "Songs NAZA offline",
+      "packageName": "com.naza.candidat.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/_EJYvtB8vOZyWEOwhsQkyDuX6LwhBrwjizDynlB0qsR-p5kkN52hTmA4qsxZ1429rTU=w480-h960-rw",
       "download": "+50K"
     },
     {
-      "name": "Chansons françaises Offline",
-      "packageName": "com.chansons.hitfrancaise.gouss",
-      "icon": "https://play-lh.googleusercontent.com/hCKHucE73QP5pa0xb3jRB2jr2ed3r207-LPRydLg8coSQsdvkJ8i612OppUWVnxFBA",
+      "name": "Songs Koba LaD offline",
+      "packageName": "com.koba.ladtictac.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/9fnk3FAH3DAsHKEH5k2_mk-cPE2Vw3Yuzux6LXA6i0exLcN9CXGcEXGt2bLs425dDQ=w480-h960-rw",
       "download": "+1 Million"
     },
     {
-      "name": "Maitre Gims & Lyrics Offline",
-      "packageName": "com.gimsmaitre.prendmamain.gouss",
-      "icon": "https://play-lh.googleusercontent.com/zLyoMHLZH_cGZ8NU54eqN_2RCSVL0M3r996LSDEMjrCPMbmKWFh1x6pR4vRmvqCoq-s",
+      "name": "Songs Lady Gaga offline",
+      "packageName": "com.lady.gagaabractabera.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/D1flcn58ODM_SAos5z07QJXFauJMO734_U88nue9_w81ta9skNL5BKTxt9jFVHRMD4s=w480-h960-rw",
       "download": "+100K"
     },
     {
